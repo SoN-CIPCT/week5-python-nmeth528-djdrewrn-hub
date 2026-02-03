@@ -7,9 +7,9 @@ print("The first two items in the list are: ", (cs1))
 cs2 = colors[2:4]
 print("The middle two items in the list are: ", (cs2))
 
-print("The first and last items in the list are: " + (colors[0]),(colors[5]))
+print("The first and last items in the list are: " + (colors[0]), (colors[5]))
 
-#tuples
+# tuples
 foods = ("hamburger", "cheeseburger", "pizza", "hotdog", "fries")
 
 for foodType in foods:
