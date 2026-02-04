@@ -22,22 +22,3 @@ foods = ("hamburger", "cheeseburger", "pizza", "chicken nuggets", "onion rings")
 
 for foodType in foods:
     print(foodType)
-
-# for bicycleBrand in bicycles:
-#     print("Do you like " + bicycleBrand)
-#     print("I do too!")
-
-# print("Finished")
-
-# numbers = list(range(1,10))
-# print(numbers)
-
-# for number in numbers:
-#     square = number**2
-#     print(square)
-
-
-# ns1 = numbers[2:3]
-# ns2 = numbers[0:9:2]
-# print(ns1)
-# print(ns2)
